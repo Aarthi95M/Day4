@@ -1,0 +1,14 @@
+.navbar{
+    background-color: palevioletred !important;
+    
+}
+.navbar-brand{
+    color: #fff !important;
+}
+
+.navbar-nav{
+    .nav-link{
+        color: #fff !important;
+    }
+    
+}
